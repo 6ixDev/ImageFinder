@@ -14,4 +14,4 @@ ImageFinderChild c = new ImageFinder(/*path to png or BufferedImage to find*/"",
 String time = c.getTime();
 Point midPoint = c.getMidPoint();
 Point startingPoint = c.getImageStartingPoint();
-        ```
+
