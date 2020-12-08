@@ -1,5 +1,5 @@
 # ImageFinder
-Simple Java-API that allows for image-finding with extra options such as accuracy, pixel accuracy, scaleX and scaleY.
+Simple Java-API that finds an image in another image with extra options such as accuracy, pixel accuracy, scaleX and scaleY.
 
 
 usage:
